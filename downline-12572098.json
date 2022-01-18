@@ -1,0 +1,22 @@
+[
+   {
+      "customerNumber":34234523,
+      "firstName":"Super",
+      "lastName":"Richie",
+      "commission":3423.00,
+      "ownSales":344,
+      "groupSales":4553,
+      "tier":"consultant",
+      "state":"active",
+   },
+   {
+      "customerNumber":93303820,
+      "firstName":"Bobby",
+      "lastName":"Chubby",
+      "commission":342,
+      "ownSales":342,
+      "groupSales":4532,
+      "tier":"raiser",
+      "state":"inactive"
+   }
+]
