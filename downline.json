@@ -1,0 +1,32 @@
+[
+   {
+      "customerNumber":12572098,
+      "firstName":"Hans",
+      "lastName":"Meier",
+      "commission":3423.00,
+      "ownSales":344,
+      "groupSales":4553,
+      "tier":"consultant",
+      "state":"active",
+   },
+   {
+      "customerNumber":21540967,
+      "firstName":"Elvis",
+      "lastName":"Tobler",
+      "commission":342,
+      "ownSales":342,
+      "groupSales":4532,
+      "tier":"raiser",
+      "state":"inactive"
+   },
+   {
+      "customerNumber":21552447,
+      "firstName":"Tobias",
+      "lastName":"Hauser",
+      "commission":473,
+      "ownSales":999,
+      "groupSales":6473,
+      "tier":"raiser",
+      "state":"active"
+   }
+]
